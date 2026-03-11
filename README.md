@@ -6,7 +6,7 @@
 
 ## Layout do PCB
 
-![pbc](/imagens/LayoutPCB.jpeg)
+![pbc](/imagens/LayoutPCB.png)
 
 ## Visualização 3D
 
